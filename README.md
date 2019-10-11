@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/maheshkrishnagopal/Ansibly/blob/master/images/ansibly.png"/> </p>
+<p align="center"> <img src="https://github.com/maheshkrishnagopal/Ansibly/blob/master/images/ansibly.png" width="400" height="300"/> </p>
 <h1 align="center"> Ansibly v0.0.1 (Beta) </h1>
 
 Ansibly is an Ansible Generator that generates Ansible Playbook/Roles in an effective and more modern way.
