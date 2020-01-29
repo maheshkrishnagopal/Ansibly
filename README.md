@@ -8,8 +8,8 @@ Ansibly is an Ansible Generator that generates Ansible Playbook/Roles in an effe
 
 <h2> How to use Ansibly? </h2>
 <p> Below is a sample execution of the Ansibly module and the corresponding output </p>
-<p align="center"> <img src="https://github.com/maheshkrishnagopal/Ansibly/blob/master/images/Example.PNG" width="150" height="150"/> </p>
-<p align="center"> <img src="https://github.com/maheshkrishnagopal/Ansibly/blob/master/images/Output.PNG" width="150" height="150"/> </p>
+<p align="center"> <img src="https://github.com/maheshkrishnagopal/Ansibly/blob/master/images/Example.PNG" width="550" height="450"/> </p>
+<p align="center"> <img src="https://github.com/maheshkrishnagopal/Ansibly/blob/master/images/Output.PNG" width="550" height="450"/> </p>
 
 <h2> Code Style </h2>
 Ansibly has been developed with PEP8 standard.
