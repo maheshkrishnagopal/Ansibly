@@ -6,6 +6,11 @@ Ansibly is an Ansible Generator that generates Ansible Playbook/Roles in an effe
 <h2> Why Ansibly? </h2>
 <p> Ansibly is designed as a python module that shall be leveraged to generate Ansible Playbooks and Roles. There are other Ansible Playbook and Roles generator, however, Ansibly has a vast information set of whole of the Ansible Module index. Not just that, inspite of a regular python module, Ansibly has interactive way of generating Playbooks and Roles as per your need.</p>
 
+<h2> How to use Ansibly? </h2>
+<p> Below is a sample execution of the Ansibly module and the corresponding output </p>
+<p align="center"> <img src="https://github.com/maheshkrishnagopal/Ansibly/blob/master/images/Example.PNG" width="150" height="150"/> </p>
+<p align="center"> <img src="https://github.com/maheshkrishnagopal/Ansibly/blob/master/images/Output.PNG" width="150" height="150"/> </p>
+
 <h2> Code Style </h2>
 Ansibly has been developed with PEP8 standard.
 
