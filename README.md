@@ -29,7 +29,7 @@ Ansibly has been developed with PEP8 standard.
 2. Generates Ansible Roles.
 3. Incorporates whole Ansible Module Index within it.
 4. Vast data set on Ansible.
-5. Interactive than that of pre defined [You get to decide what to be created].
+5. Interactive than that of calling pre-defined functions [You get to decide what to be created].
 6. More convinient than conventional way of module.
 
 ## License
