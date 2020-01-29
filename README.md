@@ -11,3 +11,5 @@
 pip install ansibly
 ```
 
+## Ansibly Execution
+![alt text](https://github.com/maheshkrishnagopal/Ansibly/blob/master/images/Example.PNG "Executing Ansibly")
