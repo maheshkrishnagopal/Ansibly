@@ -1,5 +1,5 @@
 Inline-style: 
-![alt text](https://github.com/maheshkrishnagopal/Ansibly/blob/master/images/anisbly_small.png=150x150 "Ansibly Logo")
+![alt text](https://github.com/maheshkrishnagopal/Ansibly/blob/master/images/anisbly_small.png "Ansibly Logo"){:height="150" width="150"}
 
 <p align="center"> <img src="https://github.com/maheshkrishnagopal/Ansibly/blob/master/images/anisbly_small.png" width="150" height="150"/> </p>
 <h1 align="center"> Ansibly v0.0.5 (Beta) </h1>
