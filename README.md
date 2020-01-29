@@ -14,6 +14,11 @@
 pip install ansibly
 ```
 
+## Requirements
+```bash
+pip install pymongo
+```
+
 ## Ansibly Execution
 ![exec](https://github.com/maheshkrishnagopal/Ansibly/blob/master/images/Example.PNG "Executing Ansibly")
 
