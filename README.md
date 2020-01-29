@@ -1,3 +1,6 @@
+Inline-style: 
+![alt text](https://github.com/maheshkrishnagopal/Ansibly/blob/master/images/anisbly_small.png "Ansibly Logo")
+
 <p align="center"> <img src="https://github.com/maheshkrishnagopal/Ansibly/blob/master/images/anisbly_small.png" width="150" height="150"/> </p>
 <h1 align="center"> Ansibly v0.0.5 (Beta) </h1>
 
