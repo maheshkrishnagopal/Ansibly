@@ -1,6 +1,3 @@
-![alt text](https://github.com/maheshkrishnagopal/Ansibly/blob/master/images/anisbly_logo_final.jpg "Ansibly Logo")
-
-
 <p align="center"> <img src="https://github.com/maheshkrishnagopal/Ansibly/blob/master/images/anisbly_logo_final.jpg"/> </p>
 
 # Ansibly v0.0.5 (Beta)
