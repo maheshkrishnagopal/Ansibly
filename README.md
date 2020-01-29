@@ -4,6 +4,9 @@
   <a href="https://pypi.org/project/ansibly/" target="_blank">
     <img src="https://badge.fury.io/py/ansibly.svg" alt="Package version">
   </a>
+  <a href="https://maheshkrishnagopal.github.io/Ansibly/" target="_blank">
+    <img src="https://img.shields.io/github/license/maheshkrishnagopal/Ansibly?style=flat-square" alt="License">
+  </a>
 </p>
 
 ## Project Description
