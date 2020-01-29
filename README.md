@@ -1,8 +1,6 @@
 <p align="center"> <img src="https://github.com/maheshkrishnagopal/Ansibly/blob/master/images/anisbly_logo_final.jpg"/> </p>
 <h1 align="center"> Ansibly v0.0.5 (Beta) </h1>
-  
-Ansibly is an Ansible Generator that generates Ansible Playbook/Roles in an effective and more modern way.
-  
+<p align="center"> Ansibly is an Ansible Generator that generates Ansible Playbook/Roles in an effective and more modern way. </p> 
 <p align="center">
   <a href="https://pypi.org/project/ansibly/" target="_blank">
     <img src="https://badge.fury.io/py/ansibly.svg" alt="Package version">
